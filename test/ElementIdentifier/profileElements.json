@@ -1,0 +1,10 @@
+{
+    "menuprofile": "//android.view.View[@content-desc='Profile']",
+    "Profilename": "//android.view.View[@content-desc='ANJAN KUMAR TAH']",
+    "EmployeeId": "//android.view.View[2]",
+    "EmailId": "//android.view.View[4]",
+    "MobileNumber": "//android.view.View[5]",
+    "Territory": "//android.view.View[8]",
+    "taluka" : "//android.view.View[10]",
+    "taluka1" : "//android.view.View[11]"
+}

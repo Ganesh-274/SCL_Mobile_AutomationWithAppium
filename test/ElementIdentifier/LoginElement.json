@@ -1,0 +1,14 @@
+{
+    
+    "usernamefield": "//android.widget.EditText[@hint='Enter Employee Id']",
+    "passwordfield": "//android.widget.EditText[@hint='Enter Password']",
+    "Loginbutton": "~Log In",
+    "Homepage": "//android.widget.ImageView[@content-desc='Home']",
+    "menuclick": "android.widget.Button",
+    "logoutbutton": "//android.widget.ImageView[@content-desc='logoutButton']",
+    "popupbuttonyes": "//android.widget.Button[@content-desc='logoutYesButton']",
+    "Invaliderrormessage": "//android.widget.ImageView[@content-desc='Invalid Username/Password If you have forgotten your password. Please try forgot password to reset your password.']",
+    "clickonarraw": "android.widget.ImageView",
+    "Salesperformanceandplanningmain": "//android.widget.ImageView[@content-desc='Sales Performance and Planning']",
+    "onlysalesperformance": "//android.widget.ImageView[@content-desc='Sales Performance']"
+}
